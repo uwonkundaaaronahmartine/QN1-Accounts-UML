@@ -1,6 +1,6 @@
 ## NetBeans testing
 
-Open NetBeans, click `File` > `Open Project`, and select this folder: `QN1-Accounts-UML-Project2`.
+Open NetBeans, click `File` > `Open Project`, and select this folder: `QN1-Accounts-UML.`
 
 Then right-click the project and choose `Run`. NetBeans should recognize it as a Maven Java project because of the `pom.xml` file.
 
